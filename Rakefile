@@ -1,3 +1,7 @@
+require 'rake/clean'
+
+CLEAN.include(["izon.egg-info", "dist"])
+
 desc "Make package"
 task :package do
   sh 'python setup.py sdist'
