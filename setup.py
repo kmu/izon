@@ -4,7 +4,7 @@ requires = []
 
 setup(
     name='izon',
-    version='0.1',
+    version='2018.5.24',
     description='A dependency handling tool for files',
     url='https://github.com/kmu/izon',
     author='Koki Muraoka',
