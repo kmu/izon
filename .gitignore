@@ -1,3 +1,4 @@
 dist
 izon.egg-info
 .cache
+tmp_for_test*
