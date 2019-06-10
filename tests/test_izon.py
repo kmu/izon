@@ -1,11 +1,13 @@
 import unittest
 import os
 from izon.izon import *
+from time import sleep
 
 
 class TestIzon(unittest.TestCase):
     def setUp(self):
         for idx in range(5):
+            sleep(1)
             with open("tmp_for_test_{}".format(idx), "w") as f:
                 f.write("test")
 
