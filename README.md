@@ -1,4 +1,5 @@
 [![Downloads](https://pepy.tech/badge/izon)](https://pepy.tech/project/izon)
+[![Build Status](https://travis-ci.org/kmu/izon.svg?branch=master)](https://travis-ci.org/kmu/izon)
 
 # izon
 
